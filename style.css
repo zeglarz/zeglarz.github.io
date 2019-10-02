@@ -1,0 +1,19 @@
+.modal {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border: 2px solid #cccccc;
+    padding: 50px 100px;
+    background-color: #eeeeee;
+}
+
+.cell {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    font-size: 80px;
+    text-align: center;
+    
+}
+
