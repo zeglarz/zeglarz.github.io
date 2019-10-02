@@ -103,8 +103,8 @@ TicTacToeGame.prototype.checkResult = function () {
         if (result === 'xxx' || result === 'ooo') {
             win = true;
             break;
-        } else 
-    }
+        }
+      }
     return win;
 };
 
